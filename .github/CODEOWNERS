@@ -1,0 +1,5 @@
+# Dueno por defecto del repo
+*                          @complif/infrasec
+
+# Rutas sensibles: SOLO infrasec aprueba (gana la ultima linea que matchea)
+/.github/                  @complif/infrasec
